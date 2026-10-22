@@ -1,0 +1,15 @@
+{
+  "name": "ghanshyam-portfolio-static",
+  "private": true,
+  "version": "6.0.0",
+  "type": "module",
+  "description": "GitHub Pages ready personal cybersecurity portfolio. Static root is the live site.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
